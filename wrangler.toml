@@ -1,5 +1,5 @@
 
-name = "multiplayer-template"
+name = "tldraw-sync-cf-hussein"
 main = "worker/worker.ts"
 compatibility_date = "2025-05-08"
 compatibility_flags = ["nodejs_compat"]
