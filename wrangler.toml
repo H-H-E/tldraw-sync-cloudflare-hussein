@@ -6,9 +6,9 @@ compatibility_flags = ["nodejs_compat"]
 upload_source_maps = true
 preview_urls = true
 
-[[routes]]
-pattern = "multiplayer.templates.tldraw.dev"
-custom_domain = true
+# routes]]
+# attern = "multiplayer.templates.tldraw.dev"
+##  custom_domain = true
 
 [observability]
 enabled = true
